@@ -1,0 +1,6 @@
+@ConnectionPoolingInDapperDotNetCore_HostAddress = http://localhost:5071
+
+GET {{ConnectionPoolingInDapperDotNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
